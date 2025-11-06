@@ -1,4 +1,3 @@
-````markdown
 # 🚀 DQN Lunar Lander V3
 
 Este projeto é uma implementação do algoritmo **Deep Q-Network (DQN)** para treinar um agente a pousar uma nave no ambiente **LunarLander-v3** do [Gymnasium](https://gymnasium.farama.org/).
@@ -29,7 +28,7 @@ O ambiente é totalmente baseado em **Box2D**, simulando a física realista da g
 ```bash
 git clone https://github.com/SEU_USUARIO/DQNLunarLandV3.git
 cd DQNLunarLandV3
-````
+```
 
 ### 2️⃣ Instale as dependências
 
