@@ -72,6 +72,5 @@ Durante o treinamento, o agente deve:
 
 ## 📜 Licença
 
-Este projeto é de uso livre para fins educacionais e de pesquisa.
-Sinta-se à vontade para clonar, estudar e melhorar!
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
